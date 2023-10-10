@@ -1,0 +1,26 @@
+{
+  "name": "mongoose-datatables-serverside",
+  "version": "1.0.0",
+  "description": "Mongoose-DataTables-Server simplifies server-side DataTables integration with MongoDB using Mongoose. Easily construct and execute queries, enabling advanced data searching, sorting, and pagination for your web applications.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnasQiblawi/mongoose-datatables-serverside.git"
+  },
+  "keywords": [
+    "Node.JS",
+    "MongoDB",
+    "mongoose",
+    "DataTables",
+    "datatables.net",
+    "server-side",
+    "Express",
+    "ExpressJS"
+  ],
+  "author": "Anas Qiblawi <anashgt@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnasQiblawi/mongoose-datatables-serverside/issues"
+  },
+  "homepage": "https://github.com/AnasQiblawi/mongoose-datatables-serverside#readme"
+}
